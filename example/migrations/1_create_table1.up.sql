@@ -1,0 +1,1 @@
+CREATE TABLE user1 (`name` varchar(200) NOT NULL DEFAULT 0, `age` int(4) NOT NULL DEFAULT 1) ENGINE=InnoDB;
